@@ -206,7 +206,7 @@ main {
   .robot-3d {
     scale: 0.8;
     top: -20%;
-    right: -26%;
+    right: 0;
   }
 
 }
@@ -236,7 +236,7 @@ main {
   .robot-3d {
     scale: 0.5;
     top: -25%;
-    right: -40;
+    right: 0;
   }
 
   .content {
@@ -269,5 +269,6 @@ main {
     padding: 0.4rem, auto;
     width: auto;
   }
+
 
 }
